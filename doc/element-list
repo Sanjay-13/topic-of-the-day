@@ -1,0 +1,5 @@
+com.nwmsu.topicoftheday
+com.nwmsu.topicoftheday.controller
+com.nwmsu.topicoftheday.exception
+com.nwmsu.topicoftheday.model
+com.nwmsu.topicoftheday.repository

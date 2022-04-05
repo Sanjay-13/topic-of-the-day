@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.nwmsu.topicoftheday"},{"l":"com.nwmsu.topicoftheday.controller"},{"l":"com.nwmsu.topicoftheday.exception"},{"l":"com.nwmsu.topicoftheday.model"},{"l":"com.nwmsu.topicoftheday.repository"}]
