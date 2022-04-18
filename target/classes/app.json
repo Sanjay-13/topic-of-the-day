@@ -1,0 +1,8 @@
+{
+    "name": "heroku-springtopicoftheday",
+    "buildpacks": [
+      {
+        "url": "heroku/maven"
+      }
+    ]
+  }
